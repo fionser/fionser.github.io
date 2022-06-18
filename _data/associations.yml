@@ -6,7 +6,7 @@
 
 - organization: Microsoft SEAL
   url: https://github.com/microsoft/SEAL
-  summary: 一般开发；贡献数个性能优化相关的 PR；如 [176](https://github.com/microsoft/SEAL/pull/176); [177](https://github.com/microsoft/SEAL/pull/177); [234](https://github.com/microsoft/SEAL/pull/234).
+  summary: 一般开发；贡献数个性能优化相关的 PR；如 PR#176, PR#177 和 PR#234.
 
 - organization: TF Encrypted
   url: https://github.com/tf-encrypted/tf-encrypted
