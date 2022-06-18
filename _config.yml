@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "JuHou's Resume"
+description: ""
 
 # Build settings
 markdown: kramdown
@@ -47,9 +47,9 @@ resume_social_links:
   resume_github_url:            "https://github.com/fionser"
   #resume_twitter_url:          "http://twitter.com/jglovier"
   #resume_dribbble_url:         https://dribbble.com/jag"
-  # resume_facebook_url:        "insert Facebook URL here"
+  #resume_facebook_url:        "insert Facebook URL here"
   #resume_linkedin_url:         "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:       "insert your Instagram URL here"
+  #resume_instagram_url:       "insert your Instagram URL here"
   #resume_website_url:           "http://joelglovier.com"
   #resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      false

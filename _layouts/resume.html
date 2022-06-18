@@ -39,12 +39,12 @@
           {{ site.resume_header_intro }}
         </div>
 
-        {% if site.resume_looking_for_work == 'yes' %}
-        <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Contact me</a>
-        {% elsif site.resume_looking_for_work == 'no' %}
-        <a class="contact-button not-looking no-print">I'm not looking for work right now.</a>
-        {% else %}
-        {% endif %}
+        <!-- {% if site.resume_looking_for_work == 'yes' %} -->
+        <!-- <a href="mailto:{{ site.resume_contact_email }}" class="contact&#45;button no&#45;print" itemprop="email">Contact me</a> -->
+        <!-- {% elsif site.resume_looking_for_work == 'no' %} -->
+        <!-- <a class="contact&#45;button not&#45;looking no&#45;print">I'm not looking for work right now.</a> -->
+        <!-- {% else %} -->
+        <!-- {% endif %} -->
 
       </header>
 
@@ -232,8 +232,9 @@
       {% endif %}
 
       <footer class="page-footer">
-        <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
-        <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
+        <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. 
+		<!-- Fork me on <a href="https://github.com/jglovier/resume&#45;template">GitHub</a>.</p> -->
+        <!-- <p class="footer&#45;line">If this is your live resume, you can modify or remove this part. ;&#45;)</p> -->
       </footer>
 
     </div>

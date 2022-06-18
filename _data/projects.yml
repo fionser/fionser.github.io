@@ -1,26 +1,36 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-- project: "Covert Security with Public Verifiability: Faster, Leaner, and Simpler"
-  role: 编程实现 (实习生)
-  duration: EUROCRYPT19 2019 
-  url: "https://github.com/secretflow/ppu"
-  description: 两方安全计算框架
+- project: "Cheetah: Lean and Fast Secure Two-Party Deep Neural Network Inference"
+  role: 共同一作
+  duration: USENIX Security 2022
+  url: "https://github.com/Alibaba-Gemini-Lab/OpenCheetah"
+  description: 一整套双方安全协议支持比较完整的卷积网络的安全推理
+
+- project: "PEGASUS: Bridging Polynomial and Non-polynomial Evaluations in Homomorphic Encryption"
+  role: 一作
+  duration: Security and Privacy 2021
+  description: 各种 RLWE 上面的 trick；是后续工作的各种 idea 的源头
 
 - project: "Faster Secure Multiparty Computation of Adaptive Gradient Descent"
   role: 一作
   duration: PPMLP 2020
   description: 一个有意思的计算 1/sqrt(x) 的双方协议
 
-- project: "PEGASUS: Bridging Polynomial and Non-polynomial Evaluations in Homomorphic Encryption"
-  role: 一作
-  duration: Security and Privacy 2021
-  url: ""
-  description: 各种 RLWE 上面的 trick；是后续工作的各种 idea 的源头
+- project: "Covert Security with Public Verifiability: Faster, Leaner, and Simpler"
+  role: 编程实现 (阿里实习)
+  duration: EUROCRYPT19 2019 
+  url: "https://github.com/emp-toolkit/emp-pvc"
+  description: 两方安全计算框架，支持（一定程度的）恶意行为检测和存证。
 
-- project: "Cheetah: Lean and Fast Secure Two-Party Deep Neural Network Inference"
-  role: 共同一作
-  duration: USENIX Security 2022
-  url: "https://github.com/Alibaba-Gemini-Lab/OpenCheetah"
-  description: 一整套双方安全协议支持比较完整的卷积网络的安全推理
+- project: "Non-interactive and Output Expressive Private Comparison from Homomorphic Encryptio"
+  role: 一作，博士期间的工作；
+  duration: AisaCCS 2018
+  description: 一个用 RLWE 做加密整数的大小比较的协议；在里面用到的一些 RLWE/LWE 的 trick 是 Pegsus 论文的一部分根基。
+
+- project: "Using Fully Homomorphic Encryption for Statistical Analysis of Categorical, Ordinal and Numerical Data"
+  role: 一作，博士期间的工作；
+  duration: NDSS 2017
+  description: 是我开始接触 FHE 的开端。
+
 
