@@ -3,11 +3,5 @@
 - company: 阿里安全-双子座实验室
   position: 算法工程师
   duration: 2019 年 4 月 &mdash; 至今
-  summary: 关注全同态加密，多方安全计算相关技术的沉淀与创新。期间发表论文
-           <ul class="resume-item-list">
-           <li> Covert Security with Public Verifiability: Faster, Leaner, and Simpler. 发表于 EUROCRYPT19; 负责具体编程实现</li>
-           <li> Faster Secure Multiparty Computation of Adaptive Gradient Descent. 发表于 PPMLP 20; 一作 </li>
-           <li> PEGASUS: Bridging Polynomial and Non-polynomial Evaluations in Homomorphic Encryption. 发表于 Security and Privacy 21; 一作</li>
-           <li> Cheetah: Lean and Fast Secure Two-Party Deep Neural Network Inference. 发表于 USENIX Security 22; 共同一作</li>
-           </ul>
+  summary: 关注全同态加密，多方安全计算相关技术的沉淀与创新。期间发表论文<ul class="resume-item-list"> <li> Covert Security with Public Verifiability: Faster, Leaner, and Simpler. 发表于 EUROCRYPT19; 负责具体编程实现</li> <li> Faster Secure Multiparty Computation of Adaptive Gradient Descent. 发表于 PPMLP 20; 一作 </li> <li> PEGASUS: Bridging Polynomial and Non-polynomial Evaluations in Homomorphic Encryption. 发表于 Security and Privacy 21; 一作</li> <li> Cheetah: Lean and Fast Secure Two-Party Deep Neural Network Inference. 发表于 USENIX Security 22; 共同一作</li> </ul>
 
