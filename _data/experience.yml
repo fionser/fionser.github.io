@@ -1,19 +1,13 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Engineer 
+- company: 阿里安全-双子座实验室
+  position: 算法工程师
+  duration: 2019 年 4 月 &mdash; 至今
+  summary: 关注全同态加密，多方安全计算相关技术的沉淀与创新。期间发表论文
+           <ul class="resume-item-list">
+           <li> Covert Security with Public Verifiability: Faster, Leaner, and Simpler. 发表于 EUROCRYPT19; 负责具体编程实现</li>
+           <li> Faster Secure Multiparty Computation of Adaptive Gradient Descent. 发表于 PPMLP 20; 一作 </li>
+           <li> PEGASUS: Bridging Polynomial and Non-polynomial Evaluations in Homomorphic Encryption. 发表于 Security and Privacy 21; 一作</li>
+           <li> Cheetah: Lean and Fast Secure Two-Party Deep Neural Network Inference. 发表于 USENIX Security 22; 共同一作</li>
+           </ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
