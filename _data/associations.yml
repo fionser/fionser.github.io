@@ -1,9 +1,13 @@
 # Associations
 # comment out the urls if you do not wish to display them
+- organization: OpenCheetah
+  url: https://github.com/Alibaba-Gemini-Lab/OpenCheetah
+  summary: USENIX22 「猎豹」论文的开源代码
 
-- organization: Gemini Lab, Alibaba
-  role: Engineer
-  year: 2019 &mdash; now
-  url: https://alibaba-gemini-lab.github.io/
-  summary: Creating HE-based protocols.
+- organization: Microsoft SEAL
+  url: https://github.com/microsoft/SEAL
+  summary: 一般开发；贡献数个性能优化相关的 PR；如 [176](https://github.com/microsoft/SEAL/pull/176); [177](https://github.com/microsoft/SEAL/pull/177); [234](https://github.com/microsoft/SEAL/pull/234).
 
+- organization: TF Encrypted
+  url: https://github.com/tf-encrypted/tf-encrypted
+  summary: 利用 TFE 的图计算；封装 SEAL 做两方安全计算（涉及部分 TensorFlow Kernel 定制化)；如两方安全逻辑回归。
