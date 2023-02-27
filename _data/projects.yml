@@ -1,5 +1,10 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
+#
+- project: "Squirrel: A Scalable Secure Two-Party Computation Framework for Training Gradient Boosting Decision Tree"
+  role: 一作
+  duration: USENIX Security 2023 (To be appear)
+  description: 树模型的双方安全计算，基于 RLWE 和 OT 做了一些计算量 & 通信量的优化。即将在 [SecretFlow](https://github.com/secretflow) 项目上开源。
 
 - project: "Cheetah: Lean and Fast Secure Two-Party Deep Neural Network Inference"
   role: 共同一作
