@@ -1,5 +1,9 @@
 # Associations
 # comment out the urls if you do not wish to display them
+- organization: SecretFlow (隐语)
+  url: https://github.com/secretflow/spu
+  summary: 两方计算部分的实现 (ie `libspu/mpc/cheetah/`)
+ 
 - organization: OpenCheetah
   url: https://github.com/Alibaba-Gemini-Lab/OpenCheetah
   summary: USENIX22 「猎豹」论文的开源代码
