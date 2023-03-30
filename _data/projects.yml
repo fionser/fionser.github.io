@@ -28,7 +28,7 @@
   url: "https://github.com/emp-toolkit/emp-pvc"
   description: 两方安全计算框架，支持（一定程度的）恶意行为检测和存证。
 
-- project: "Non-interactive and Output Expressive Private Comparison from Homomorphic Encryptio"
+- project: "Non-interactive and Output Expressive Private Comparison from Homomorphic Encryption"
   role: 一作，博士期间的工作；
   duration: AisaCCS 2018
   description: 一个用 RLWE 做加密整数的大小比较的协议；在里面用到的一些 RLWE/LWE 的 trick 是 Pegsus 论文的一部分根基。

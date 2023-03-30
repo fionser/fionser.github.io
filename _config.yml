@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Wen-jie Lu (居侯)"
+resume_name:                    "Wen-jie Lu"
 resume_title:                   "Gemini Lab (阿里-双子座实验室)"
 
 # used for the contact button in _layouts/resume.html
