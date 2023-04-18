@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Wen-jie Lu"
-resume_title:                   "Cryptography \& Privacy Lab (蚂蚁技术研究院)"
+resume_title:                   "Cryptography and Privacy Lab (蚂蚁技术研究院)"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           ""
