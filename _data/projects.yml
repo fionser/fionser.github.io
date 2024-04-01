@@ -1,25 +1,31 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
-#
+
 - project: "Squirrel: A Scalable Secure Two-Party Computation Framework for Training Gradient Boosting Decision Tree"
-  role: 一作
+  role: **Wen-jie Lu**, Zhicong Huang, Zhen Gu, Jingyu Li, Jian Liu, Kui Ren, Cheng Hong, Tao Wei, WenGuang Chen
+  duration: eprint
+  url: "https://eprint.iacr.org/2023/527"
+  description: 基于 RLWE & OT 做两方大模型安全推理。矩阵乘部分是 _Cheetah_ 的内容的直接延伸。大部分代码已经在 [SecretFlow](https://github.com/secretflow/spu) 项目上开源。
+
+- project: "Squirrel: A Scalable Secure Two-Party Computation Framework for Training Gradient Boosting Decision Tree"
+  role: **Wen-jie Lu**, Zhicong Huang, Qizhi Zhang, Yuchen Wang and Cheng Hong
   duration: USENIX Security 2023 
   url: "https://eprint.iacr.org/2023/527"
-  description: 树模型的双方安全计算，基于 RLWE 和 OT 做了一些计算量 & 通信量的优化。即将在 [SecretFlow](https://github.com/secretflow) 项目上开源。
+  description: 树模型的双方安全计算，基于 RLWE 和 OT 做了一些计算量 & 通信量的优化。即将在 [SecretFlow](https://github.com/secretflow/spu) 项目上开源。
 
 - project: "Cheetah: Lean and Fast Secure Two-Party Deep Neural Network Inference"
-  role: 共同一作
+  role: Zhicong Huang, **Wen-jie Lu**, Cheng Hong, Jiansheng Ding
   duration: USENIX Security 2022
   url: "https://github.com/Alibaba-Gemini-Lab/OpenCheetah"
   description: 一整套双方安全协议支持比较完整的卷积网络的安全推理
 
 - project: "PEGASUS: Bridging Polynomial and Non-polynomial Evaluations in Homomorphic Encryption"
-  role: 一作
+  role: **Wen-jie Lu**, Zhicong Huang, Cheng Hong, Yiping Ma, Hunter Qu
   duration: Security and Privacy 2021
   description: 各种 RLWE 上面的 trick；是后续工作的各种 idea 的源头
 
 - project: "Faster Secure Multiparty Computation of Adaptive Gradient Descent"
-  role: 一作
+  role: **Wen-jie Lu**, Yixuan Fang, Zhicong Huang, Cheng Hong, Chaochao Chen, Hunter Qu, Yajin Zhou, Kui Ren
   duration: PPMLP 2020
   description: 一个有意思的计算 1/sqrt(x) 的双方协议
 
@@ -30,12 +36,12 @@
   description: 两方安全计算框架，支持（一定程度的）恶意行为检测和存证。
 
 - project: "Non-interactive and Output Expressive Private Comparison from Homomorphic Encryption"
-  role: 一作，博士期间的工作；
+  role: **Wen-jie Lu**，Jun-jie Zhou, Jun Sakuma. 博士期间的工作；
   duration: AisaCCS 2018
   description: 一个用 RLWE 做加密整数的大小比较的协议；在里面用到的一些 RLWE/LWE 的 trick 是 Pegsus 论文的一部分根基。
 
 - project: "Using Fully Homomorphic Encryption for Statistical Analysis of Categorical, Ordinal and Numerical Data"
-  role: 一作，博士期间的工作；
+  role: **Wen-jie Lu**, Shohei Kawasaki, Jun Sakuma. 博士期间的工作；
   duration: NDSS 2017
   description: 是我开始接触 FHE 的开端。
 
