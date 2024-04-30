@@ -1,7 +1,7 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-- project: "Squirrel: A Scalable Secure Two-Party Computation Framework for Training Gradient Boosting Decision Tree"
+- project: "BumbleBee: Secure Two-party Inference Framework for Large Transformers"
   role: Wen-jie Lu, Zhicong Huang, Zhen Gu, Jingyu Li, Jian Liu, Kui Ren, Cheng Hong, Tao Wei, WenGuang Chen
   duration: eprint
   url: "https://eprint.iacr.org/2023/527"
