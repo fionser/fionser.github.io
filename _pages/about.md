@@ -11,8 +11,9 @@ redirect_from:
 
 <h2 id="education"> Education</h2>
 
-- Ph.D. of Computer Science   
-  Tsukuba University, Tsukuba, Japan (2014 - 2019)
+- Ph.D. in Engineering  
+  Tsukuba University, Tsukuba, Japan (2014 - 2019)  
+  [thesis](https://tsukuba.repo.nii.ac.jp/record/50832/files/DA08999.pdf)
   
 - Bachelor of Software Engineering  
   JiNan University, Guang Zhou, China (2009 - 2013)
