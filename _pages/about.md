@@ -25,6 +25,11 @@ redirect_from:
   Network and Distributed System Security 2025  
   [eprint](https://eprint.iacr.org/2023/1678) [code](https://github.com/AntCPLab/OpenBumbleBee)
 
+- *Coral: Maliciously Secure Computation Framework for Packed and Mixed Circuits*  
+  Zhicong Huang, **Wen-jie Lu**, Yuchen Wang, Cheng Hong, Tao Wei, WenGuang Chen  
+  Computer and Communications Security 2024  
+  [code](https://github.com/AntCPLab/OpenCoral)
+
 - *Squirrel: A Scalable Secure Two-Party Computation Framework for Training Gradient Boosting Decision Tree*  
   **Wen-jie Lu**, Zhicong Huang, Qizhi Zhang, Yuchen Wang, Cheng Hong  
   USENIX Security 2023  
