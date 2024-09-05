@@ -28,7 +28,7 @@ redirect_from:
 - *Coral: Maliciously Secure Computation Framework for Packed and Mixed Circuits*  
   Zhicong Huang, **Wen-jie Lu**, Yuchen Wang, Cheng Hong, Tao Wei, WenGuang Chen  
   Computer and Communications Security 2024  
-  [code](https://github.com/AntCPLab/OpenCoral)
+  [eprint](https://eprint.iacr.org/2024/1372) [code](https://github.com/AntCPLab/OpenCoral)
 
 - *Squirrel: A Scalable Secure Two-Party Computation Framework for Training Gradient Boosting Decision Tree*  
   **Wen-jie Lu**, Zhicong Huang, Qizhi Zhang, Yuchen Wang, Cheng Hong  
