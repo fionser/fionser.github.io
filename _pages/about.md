@@ -62,6 +62,6 @@ redirect_from:
 
 <h2 id="experience"> Experience</h2>
 
-- Research Scientist, Zhejiang University (04/2024 - )   
+- Research Scientist, Zhejiang University (04/2024 - 10/2024)   
 - Research Scientist, Ant Research (04/2023 - 04/2024)
 - Algorithm Engineer, Alibaba Group (04/2019 - 04/2023)
